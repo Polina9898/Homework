@@ -1,0 +1,15 @@
+/Users/polina_nesm/Documents/learning/С#/task027/bin/Debug/net7.0/task027
+/Users/polina_nesm/Documents/learning/С#/task027/bin/Debug/net7.0/task027.deps.json
+/Users/polina_nesm/Documents/learning/С#/task027/bin/Debug/net7.0/task027.runtimeconfig.json
+/Users/polina_nesm/Documents/learning/С#/task027/bin/Debug/net7.0/task027.dll
+/Users/polina_nesm/Documents/learning/С#/task027/bin/Debug/net7.0/task027.pdb
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.csproj.AssemblyReference.cache
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.AssemblyInfoInputs.cache
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.AssemblyInfo.cs
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.csproj.CoreCompileInputs.cache
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.dll
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/refint/task027.dll
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.pdb
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/task027.genruntimeconfig.cache
+/Users/polina_nesm/Documents/learning/С#/task027/obj/Debug/net7.0/ref/task027.dll
