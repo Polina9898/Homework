@@ -1,0 +1,5 @@
+/Users/polina_nesm/Documents/learning/С#/task034/obj/Debug/net7.0/task037.csproj.AssemblyReference.cache
+/Users/polina_nesm/Documents/learning/С#/task034/obj/Debug/net7.0/task037.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina_nesm/Documents/learning/С#/task034/obj/Debug/net7.0/task037.AssemblyInfoInputs.cache
+/Users/polina_nesm/Documents/learning/С#/task034/obj/Debug/net7.0/task037.AssemblyInfo.cs
+/Users/polina_nesm/Documents/learning/С#/task034/obj/Debug/net7.0/task037.csproj.CoreCompileInputs.cache
