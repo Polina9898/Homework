@@ -1,0 +1,15 @@
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.csproj.AssemblyReference.cache
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.AssemblyInfoInputs.cache
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.AssemblyInfo.cs
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.csproj.CoreCompileInputs.cache
+/Users/polina_nesm/Documents/learning/С#/task350/bin/Debug/net7.0/task350
+/Users/polina_nesm/Documents/learning/С#/task350/bin/Debug/net7.0/task350.deps.json
+/Users/polina_nesm/Documents/learning/С#/task350/bin/Debug/net7.0/task350.runtimeconfig.json
+/Users/polina_nesm/Documents/learning/С#/task350/bin/Debug/net7.0/task350.dll
+/Users/polina_nesm/Documents/learning/С#/task350/bin/Debug/net7.0/task350.pdb
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.dll
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/refint/task350.dll
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.pdb
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/task350.genruntimeconfig.cache
+/Users/polina_nesm/Documents/learning/С#/task350/obj/Debug/net7.0/ref/task350.dll
